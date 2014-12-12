@@ -23,4 +23,4 @@ There are two ways to run this code. Both of which require that you are logged i
 
 Credits
 -------
-Thank you [Random Chievo's](https://www.youtube.com/user/randomchievos) for the YouTube videos and [HolyHa1fDead](http://www.trueachievements.com/HolyHa1fDead.htm) for all the information that went into the spreadsheet. I'm not sure who the creator of the document [here](https://docs.google.com/document/d/1DQZTwmCgcOhhH0YiMta4oNTeNtpZ1L3MCDMsEgQgzAc/mobilebasic), is but I thank you, as well.
+Thank you [Random Chievo's](https://www.youtube.com/user/randomchievos) for the YouTube videos and [HolyHa1fDead](http://www.trueachievements.com/HolyHa1fDead.htm) for all the information that went into the spreadsheet. I'm not sure who the creator of the document [here](https://docs.google.com/document/d/1DQZTwmCgcOhhH0YiMta4oNTeNtpZ1L3MCDMsEgQgzAc/mobilebasic), is but I thank you as well.
