@@ -1,1 +1,47 @@
-My Page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Destiny Grimoire</title>
+   <style>
+       html, body, a {
+           font: 16px/1.4 Helvetica, Arial, sans-serif;
+       }
+       body {
+           max-width: 960px; margin: 0 auto; color: #2D3137;
+       }
+       .btn {
+           background: #14C761;
+           background-image: -webkit-linear-gradient(top, #14C761, #008F05);
+           background-image: -moz-linear-gradient(top, #14C761, #008F05);
+           background-image: -ms-linear-gradient(top, #14C761, #008F05);
+           background-image: -o-linear-gradient(top, #14C761, #008F05);
+           background-image: linear-gradient(to bottom, #14C761, #008F05);
+           display: inline-block;
+           margin: 1em 0 2em;
+           padding: .4em 1em;
+           border: 1px solid #1F628D;
+           -webkit-border-radius: 10px;
+           -moz-border-radius: 10px;
+           border-radius: 10px;
+           text-decoration: none;
+           color: #FFF;
+       }
+       .btn:hover {
+           background: #008F05;
+           background-image: -webkit-linear-gradient(top, #008F05, #14C761);
+           background-image: -moz-linear-gradient(top, #008F05, #14C761);
+           background-image: -ms-linear-gradient(top, #008F05, #14C761);
+           background-image: -o-linear-gradient(top, #008F05, #14C761);
+           background-image: linear-gradient(to bottom, #008F05, #14C761);
+           text-decoration: none;
+       }
+   </style>
+</head>
+<body>
+    <h1>Destiny Grimoire</h1>
+    <p>Drag the link below to your bookmarks bar:</p>
+    <a class="btn" href="javascript:(function(d){$.ajax({'url':'grimoire.js?'+new%20Date().getTime(),'dataType':'script'})})(document);">Destiny Grimoire</a>
+    <p>Once saved, go to your <a href="http://www.bungie.net/en/Grimoire/">Grimoire</a>, click your new bookmark, and away you go.</p>
+</body>
+</html>
